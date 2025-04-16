@@ -1,2 +1,2 @@
 # Mood-Tracker
-Keep a Track of you Mood daily.
+Keep a Track of your Mood daily.
