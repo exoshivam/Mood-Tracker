@@ -29,7 +29,7 @@ A minimalist and elegant web-based Mood Tracker that helps users log their emoti
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/mood-tracker.git
+git clone https://github.com/exoshivam/Mood-Tracker.git
 cd mood-tracker
 ```
 
